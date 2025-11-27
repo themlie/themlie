@@ -18,5 +18,12 @@ Here are some ideas to get you started:
 <p align="left"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
            " alt="vscode" width="20" height="20"/> 
+           
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+          
+          
   
 </p>
