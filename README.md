@@ -14,4 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href=" https://www.instagram.com/ssenasaahin/ ">   <img height="50" src=" https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png "/> </a>
+<h2> 🚀 Kullandığım ve Öğrendiğim Bazı Araçlar</h2> 
+<p align="left"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+           " alt="vscode" width="45" height="45"/> 
+  
+</p>
