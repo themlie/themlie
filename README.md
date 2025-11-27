@@ -16,11 +16,10 @@ Here are some ideas to get you started:
 -->
 <h2> 🚀 Kullandığım ve Öğrendiğim Bazı Araçlar</h2> 
 <p align="left"> 
-<img src="
-           https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-           " alt="c" width="20" height="20"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+           " alt="c" width="50" height="50"/> 
            
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="20" height="20" 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="50" height="50" 
            />
 
 
