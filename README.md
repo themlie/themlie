@@ -1,8 +1,8 @@
 👋 Merhaba, ben Sena
 
-Bilgisayar mühendisliği 3. sınıf öğrencisiyim. Şu an C#, OOP, Android Studio ve HTML–CSS konularında kendimi geliştiriyorum. Öğrendiklerimi küçük projelerle pekiştiriyorum ve düzenli olarak yeni şeyler deniyorum.
+Bilgisayar mühendisliği 3. sınıf öğrencisiyim. Şu an C#, OOP, Android Studio ve HTML–CSS konularında kendimi geliştiriyorum. Öğrendiklerimi küçük projelerle tekrar ediyorum ve düzenli olarak yeni şeyler deniyorum.
 
-🧩 Projelerim
+🧩 Projelerim (şuanlık 🙃)
 
 Hesap Makinesi (Android) – Basit arayüz, temel işlemler.
 
