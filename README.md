@@ -23,7 +23,10 @@ Here are some ideas to get you started:
            />
 
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="c#" width="50" height="50"/>
+ 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5#" width="50" height="50"/>/>
+          
           
           
   
