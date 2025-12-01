@@ -1,15 +1,17 @@
-👋 Merhaba, ben Sena
+👋 Hi, I’m Sena
 
-Bilgisayar mühendisliği 3. sınıf öğrencisiyim. Şu an C#, OOP, Android Studio ve HTML–CSS konularında kendimi geliştiriyorum. Öğrendiklerimi küçük projelerle tekrar ediyorum ve düzenli olarak yeni şeyler deniyorum.
+I’m a 3rd-year Computer Engineering student. I’m currently improving my skills in C#, OOP, Android Studio, and HTML–CSS. I practice what I learn by building small projects and trying new things regularly.
 
-✨ Projelerim (şuanlık 🙃)
+✨ My Projects (for now 🙃)
 
-Hesap Makinesi (Android) – Basit arayüz, temel işlemler
+Calculator (Android) – Simple UI, basic operations
 
-C# Mini Projeler – Windows Forms ve konsol uygulamaları
+C# Mini Projects – Windows Forms and console applications
 
-🌱 Kullandığım ve Öğrendiğim Araçlar
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="50" height="50" /> </p>
+Java Mini Projects 
+
+🌱 Tools I Use and Learn
+<p align="left"> <img src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" alt="c" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="50" height="50" /> </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themlie&layout=donut)](https://github.com/themlie/github-readme-stats)
 
